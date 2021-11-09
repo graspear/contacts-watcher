@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523691931748",
+    "project_id": "sqcontacts-ba322",
+    "storage_bucket": "sqcontacts-ba322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523691931748:android:d70df4a297de78a5980771",
+        "android_client_info": {
+          "package_name": "com.example.sqcontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523691931748-md6v9sndv3ob00t6qjko0go276j6hv1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABY_XoiYcACgl1Ob-x4yuPYPVUWNpOfGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523691931748-md6v9sndv3ob00t6qjko0go276j6hv1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
